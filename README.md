@@ -1,2 +1,2 @@
-# Guide-run-node-Massa-labs
-Bài này mình hướng dẫn Step by step từ nguồn của một ông người Pháp
+# Hướng dẫn chạy node Massa-labs
+Nguồn: https://hub.docker.com/r/rykcod/massa
